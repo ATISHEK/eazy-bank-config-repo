@@ -1,0 +1,5 @@
+loans:
+  message: "Hello from loans service "
+  contact:
+    name: "Atishek loans"
+    email: "hdfc@b.com"
