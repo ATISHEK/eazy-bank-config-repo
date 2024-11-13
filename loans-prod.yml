@@ -1,5 +1,8 @@
+build:
+version: 2.0
+
 loans:
-  message: "Hello from loans service updated "
+  message: "Hello from loans service updated 2"
   contact:
-    name: "Atishek loans"
+    name: "Atishek loans updated"
     email: "hdfc@b.com"
