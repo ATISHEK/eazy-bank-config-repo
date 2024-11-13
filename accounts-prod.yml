@@ -1,8 +1,8 @@
 build:
-  version: 2
+  version: 3
 
 accounts:
-  message: "Hello from accounts service"
+  message: "Hello from accounts service version 3"
   contact:
     name: "Atishek accounts"
     email: "accounts@b.com"
