@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "Hello from loans service updated 3"
+  message: "Hello from loans service updated using spring cloud bus"
   contact:
     name: "Atishek loans updated 3"
     email: "hdfc@b.com"
