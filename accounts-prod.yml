@@ -1,5 +1,8 @@
+build:
+  version: 2
+
 accounts:
-  message: "Hello test message"
+  message: "Hello from accounts service"
   contact:
-    name: "Atishek"
-    email: "a@b.com"
+    name: "Atishek accounts"
+    email: "accounts@b.com"
